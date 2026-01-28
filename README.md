@@ -1,16 +1,25 @@
 <h1 align="center">Hi there, I'm Kafait Ullah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=AI+Python+Developer;Chatbot+Specialist+%F0%9F%A4%96;Building+LLM+Agents;Mobile+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Founder+%40+Ikonic+Labs;Building+Autonomous+Agents;SaaS+MVP+Architect;LangGraph+%26+LangChain+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
- <b>BSCS Graduate | AI Python Developer | Chatbot Specialist</b>
+  <img src="https://img.shields.io/badge/Contributions_(Last_Year)-330+-success?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+ <b>Founder @ <a href="https://ikoniclabs.com">Ikonic Labs</a> | AI Architect | SaaS Specialist</b>
 <br>
-I specialize in creating advanced language model-powered AI Chatbots and full-stack AI solutions.
+<i>"Engineering Intelligent Infrastructure & Autonomous Architectures."</i>
+<br>
+I specialize in building <b>Fast SaaS MVPs</b> and <b>Agentic Workflows</b> using LangGraph & LLMs.
 </p>
 
 <p align="center">
+  <a href="https://ikoniclabs.com">
+    <img src="https://img.shields.io/badge/Agency-Ikonic_Labs-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://bento.me/kafait-dev">
     <img src="https://img.shields.io/badge/Portfolio-Bento.me-ff7e5f?style=for-the-badge&logo=bento" />
   </a>
@@ -24,20 +33,21 @@ I specialize in creating advanced language model-powered AI Chatbots and full-st
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ The Arsenal (Tech Stack)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-Vector_DB-000000?style=flat&logo=box&logoColor=white" />
   
   <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -54,16 +64,17 @@ I specialize in creating advanced language model-powered AI Chatbots and full-st
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Work
 
-| Project | Description | Tech |
+| Project | Focus | Tech |
 | :--- | :--- | :--- |
-| **🤖 ecom-ai-chatbot** | Full-stack e-commerce chatbot with FAQ & recommendations. | `TypeScript` `AI` |
-| **📄 deepseek-doc-chat** | Chat with documents using the DeepSeek LLM. | `Python` `DeepSeek` |
-| **🕵️ broker-audit-agent** | AI Agent designed for auditing broker data. | `Python` `Agents` |
+| **🌐 Ikonic Labs** | Autonomous Architectures & SaaS MVPs. | `Agency` `AI Agents` |
+| **🤖 ecom-ai-chatbot** | Full-stack e-commerce chatbot. | `TypeScript` `RAG` |
+| **📄 deepseek-doc-chat** | Local LLM Document Chat. | `Python` `DeepSeek` |
+| **🕵️ broker-audit-agent** | Autonomous Auditing Agent. | `LangGraph` `Python` |
 
 ---
 
 <p align="center">
-  <i>Let's build the future of AI together.</i>
+  <i>Building the Intelligent Infrastructure of tomorrow.</i>
 </p>
