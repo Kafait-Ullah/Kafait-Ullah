@@ -45,15 +45,12 @@ I specialize in creating advanced language model-powered AI Chatbots and full-st
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kafait-Ullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafait-Ullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kafait-Ullah&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafait-Ullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=dart,html,css" height="180" alt="languages graph" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kafait-Ullah&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
 
 ---
 
