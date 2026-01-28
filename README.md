@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions_(Last_Year)-330+-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total_Contributions_(2025)-330+-2ea44f?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ I specialize in building <b>Fast SaaS MVPs</b> and <b>Agentic Workflows</b> usin
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kafait-Ullah&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafait-Ullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=dart,html,css" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafait-Ullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c++,cmake,swift,dart,html,css,jupyter%20notebook" height="180" alt="languages graph" />
 </div>
 
 <br>
@@ -68,13 +68,19 @@ I specialize in building <b>Fast SaaS MVPs</b> and <b>Agentic Workflows</b> usin
 
 | Project | Focus | Tech |
 | :--- | :--- | :--- |
-| **🌐 Ikonic Labs** | Autonomous Architectures & SaaS MVPs. | `Agency` `AI Agents` |
-| **🤖 ecom-ai-chatbot** | Full-stack e-commerce chatbot. | `TypeScript` `RAG` |
-| **📄 deepseek-doc-chat** | Local LLM Document Chat. | `Python` `DeepSeek` |
-| **🕵️ broker-audit-agent** | Autonomous Auditing Agent. | `LangGraph` `Python` |
+| **🌐 [Ikonic Labs](https://ikoniclabs.com)** | Autonomous Architectures & SaaS MVPs. | `Agency` `AI Agents` |
+| **🤖 [ecom-ai-chatbot](https://github.com/Kafait-Ullah/ecom-ai-chatbot)** | Full-stack e-commerce chatbot. | `TypeScript` `RAG` |
+| **📄 [deepseek-doc-chat](https://github.com/Kafait-Ullah/deepseek-doc-chat)** | Local LLM Document Chat. | `Python` `DeepSeek` |
+| **🕵️ [broker-audit-agent](https://github.com/Kafait-Ullah/broker-audit-agent)** | Autonomous Auditing Agent. | `LangGraph` `Python` |
 
 ---
 
-<p align="center">
-  <i>Building the Intelligent Infrastructure of tomorrow.</i>
-</p>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  <h3>Let's Engineer the Future ⚡</h3>
+  <a href="mailto:contact@ikoniclabs.com">
+    <img src="https://img.shields.io/badge/Email_Me-contact@ikoniclabs.com-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
